@@ -6,7 +6,7 @@ Setup of Train Guy Generator is easy:
 
 1) Clone the repo wherever you like.
 2) `cd` into the repo.
-3) Run the script "trainguy_init.sh" to pull down the necessary text files from t'interweb.  
+3) Run the script `trainguy_init.sh` to pull down the necessary text files from t'interweb.  
 
 Now you're ready!
 
